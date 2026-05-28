@@ -2,7 +2,7 @@
   Hola, soy Saul Ismael Esparza Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-Soy Ingeniero en Sistemas Computacionales y Desarrollador Web Full Stack[cite: 1]. Soy una persona trabajadora y responsable, con varios años de experiencia en el área de desarrollo web, y me considero resolutivo con el ánimo de aprender nuevas tecnologías.
+Soy Ingeniero en Sistemas Computacionales y Desarrollador Web Full Stack. Soy una persona trabajadora y responsable, con varios años de experiencia en el área de desarrollo web, y me considero resolutivo con el ánimo de aprender nuevas tecnologías.
 </p>
 
 - 👨‍💻 Desarrollador Web Full Stack.
