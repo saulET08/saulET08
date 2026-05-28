@@ -5,9 +5,9 @@
 Soy Ingeniero en Sistemas Computacionales y Desarrollador Web Full Stack[cite: 1]. Soy una persona trabajadora y responsable, con varios años de experiencia en el área de desarrollo web, y me considero resolutivo con el ánimo de aprender nuevas tecnologías[cite: 1].
 </p>
 
-- 👨‍💻 Actualmente trabajo como Desarrollador Web Full Stack en Virtua MX (2022-2026)[cite: 1].
-- 📚 Trabajo diariamente construyendo aplicaciones con Laravel, Vue.js, React y Next.js[cite: 1].
-- 🎯 Mis objetivos: Continuar creando interfaces dinámicas y optimizando bases de datos e infraestructura en la nube[cite: 1].
+- 👨‍💻 Desarrollador Web Full Stack.
+- 📚 Trabajo diariamente construyendo aplicaciones con Laravel, Vue.js, React y Next.js.
+- 🎯 Mis objetivos: Continuar creando interfaces dinámicas y optimizando bases de datos.
 
 - 📫 Enlaces de contacto:
 <p>
