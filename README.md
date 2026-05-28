@@ -1,19 +1,17 @@
 <h1>
-  Hola, soy Saul Ismael Esparza Torres[cite: 1] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hola, soy Saul Ismael Esparza Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-Soy Ingeniero en Sistemas Computacionales y Desarrollador Web Full Stack[cite: 1]. Soy una persona trabajadora y responsable, con varios años de experiencia en el área de desarrollo web, y me considero resolutivo con el ánimo de aprender nuevas tecnologías[cite: 1].
+Soy Ingeniero en Sistemas Computacionales y Desarrollador Web Full Stack[cite: 1]. Soy una persona trabajadora y responsable, con varios años de experiencia en el área de desarrollo web, y me considero resolutivo con el ánimo de aprender nuevas tecnologías.
 </p>
 
 - 👨‍💻 Desarrollador Web Full Stack.
 - 📚 Trabajo diariamente construyendo aplicaciones con Laravel, Vue.js, React y Next.js.
-- 🎯 Mis objetivos: Continuar creando interfaces dinámicas y optimizando bases de datos.
 
 - 📫 Enlaces de contacto:
 <p>
     <a href="mailto:saulesparzat08@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://github.com/saulET08"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://wa.me/526188228189"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 </p>
 
 ### 🛠 &nbsp;Tecnologías con las que trabajo
@@ -33,7 +31,6 @@ Soy Ingeniero en Sistemas Computacionales y Desarrollador Web Full Stack[cite: 1
 #### 🔧 Herramientas e Infraestructura
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulET08&layout=compact)
 <br>
